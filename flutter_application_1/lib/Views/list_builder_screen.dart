@@ -5,19 +5,7 @@ import 'package:flutter_application_1/utils/dummy_data_list.dart';
 
 class ListBuildScreen extends StatelessWidget {
   ListBuildScreen({Key? key}) : super(key: key);
-  // final _mylist = [
-  //   'No 1',
-  //   'No 2',
-  //   'No 3',
-  //   'No 4',
-  //   'No 2',
-  //   'No 2',
-  //   'No 2',
-  //   'No 2',
-  //   'No 2',
-  //   'No 2',
-  //   'No 2',
-  // ];
+
   final _colors = [Colors.blue, Colors.yellow, Colors.purple, Colors.accents];
 
   @override
